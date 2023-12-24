@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "modBar",
+    "version": "1.0.0",
+    "description": "The easiest way to find your favourite Modrinth projects.",
+    "icons": {
+        "48": "img/icon256.png"
+    },
+    "action": {
+        "default_popup": "browse.html"
+    }
+}
